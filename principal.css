@@ -1,0 +1,41 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body{
+	background-color: #f7f7f7;
+	margin-bottom: 10px;
+}
+h1{
+	margin-bottom: 20px;
+}
+div ul li a {
+	font-family: 'Russo One', sans-serif;
+}
+p img {
+	float: left;
+	margin-right:10px;
+}
+.navbar-default{
+	border: none;
+	background-color: #f7f7f7;
+}
+.ctd01{
+	/*Conteudo paragrafo abaixo dos h1*/
+	margin-bottom: 50px;
+}
+.h101{
+	/* Titulo do contato */
+	margin-bottom: 50px
+}
+.footer{
+	position: absolute;
+    height: 10px;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+.npad {
+	padding:0;
+}
